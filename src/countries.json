@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "name": "Austria",
+    "flag_url": "https://www.nationsonline.org/flags_big/Austria_lgflag.gif",
+    "flag_url_alt": "Autria"
+  },
+  {
+    "id": 1,
+    "name": "Belgium",
+    "flag_url": "https://www.nationsonline.org/flags_big/Belgium_lgflag.gif",
+    "flag_url_alt": "Belgium"
+  },
+  {
+    "id": 2,
+    "name": "Croatia",
+    "flag_url": "https://www.nationsonline.org/flags_big/Croatia_lgflag.gif",
+    "flag_url_alt": "Croatia"
+  },
+  {
+    "id": 3,
+    "name": "Denmark",
+    "flag_url": "https://www.nationsonline.org/flags_big/Denmark_lgflag.gif",
+    "flag_url_alt": "Denmark"
+  },
+  {
+    "id": 4,
+    "name": "Finland",
+    "flag_url": "https://www.nationsonline.org/flags_big/Finland_lgflag.gif",
+    "flag_url_alt": "Finland"
+  },
+  {
+    "id": 5,
+    "name": "France",
+    "flag_url": "https://www.nationsonline.org/flags_big/France_lgflag.gif",
+    "flag_url_alt": "France"
+  },
+  {
+    "id": 6,
+    "name": "Germany",
+    "flag_url": "https://www.nationsonline.org/flags_big/Germany_lgflag.gif",
+    "flag_url_alt": "Germany"
+  },
+  {
+    "id": 7,
+    "name": "Greece",
+    "flag_url": "https://www.nationsonline.org/flags_big/Greece_lgflag.gif",
+    "flag_url_alt": "Greece"
+  },
+  {
+    "id": 8,
+    "name": "Hungary",
+    "flag_url": "https://www.nationsonline.org/flags_big/Hungary_lgflag.gif",
+    "flag_url_alt": "Hungary"
+  },
+  {
+    "id": 9,
+    "name": "Ireland",
+    "flag_url": "https://www.nationsonline.org/flags_big/Ireland_lgflag.gif",
+    "flag_url_alt": "Ireland"
+  },
+    {
+    "id": 10,
+    "name": "Italy",
+    "flag_url": "https://www.nationsonline.org/flags_big/Italy_lgflag.gif",
+    "flag_url_alt": "Italy"
+  },
+  {
+    "id": 11,
+    "name": "Netherlands",
+    "flag_url": "https://www.nationsonline.org/flags_big/Netherlands_lgflag.gif",
+    "flag_url_alt": "Netherlands"
+  },
+  {
+    "id": 12,
+    "name": "Norway",
+    "flag_url": "https://www.nationsonline.org/flags_big/Norway_lgflag.gif",
+    "flag_url_alt": "Norway"
+  },
+  {
+    "id": 13,
+    "name": "Poland",
+    "flag_url": "https://www.nationsonline.org/flags_big/Poland_lgflag.gif",
+    "flag_url_alt": "Poland"
+  },
+  {
+    "id": 14,
+    "name": "Portugal",
+    "flag_url": "https://www.nationsonline.org/flags_big/Portugal_lgflag.gif",
+    "flag_url_alt": "Portugal"
+  },
+  {
+    "id": 15,
+    "name": "Spain",
+    "flag_url": "https://www.nationsonline.org/flags_big/Spain_lgflag.gif",
+    "flag_url_alt": "Spain"
+  },
+  {
+    "id": 16,
+    "name": "Sweden",
+    "flag_url": "https://www.nationsonline.org/flags_big/Sweden_lgflag.gif",
+    "flag_url_alt": "Sweden"
+  },
+  {
+    "id": 17,
+    "name": "Switzerland",
+    "flag_url": "https://www.nationsonline.org/flags_big/Switzerland_lgflag.gif",
+    "flag_url_alt": "Switzerland"
+  },
+  {
+    "id": 18,
+    "name": "Turkey",
+    "flag_url": "https://www.nationsonline.org/flags_big/Turkey_lgflag.gif",
+    "flag_url_alt": "Turkey"
+  },
+  {
+    "id": 19,
+    "name": "United Kingdom",
+    "flag_url": "https://www.nationsonline.org/flags_big/United_Kingdom_lgflag.gif",
+    "flag_url_alt": "United Kingdom"
+  }
+]
